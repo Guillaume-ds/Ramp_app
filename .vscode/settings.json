@@ -1,0 +1,14 @@
+{
+    "workbench.activityBar.iconClickBehavior": "focus",
+    "workbench.activityBar.visible": true,
+    "editor.tabSize": 2,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "search.defaultViewMode": "list",
+    "debug.toolBarLocation": "floating",
+    "debug.showInStatusBar": "always",
+    "debug.showSubSessionsInToolBar": true,
+    "workbench.view.alwaysShowHeaderActions": false,
+    "workbench.editor.autoLockGroups": {
+        "vscode.markdown.preview.editor": true
+    }
+}
